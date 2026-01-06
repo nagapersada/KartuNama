@@ -126,6 +126,18 @@ const members = {
         wa: "6281214273452",
         rank: 1
     },
+    'duco': {
+        name: "Dani Ramdani",
+        photo: "foto-duco.jpg",
+        wa: "6285722833526",
+        rank: 1
+    },
+    'munthe': {
+        name: "Pratama Munthe",
+        photo: "foto-munthe.jpg",
+        wa: "62895340767885",
+        rank: 2
+    },
 };
 
 const defaultData = {
