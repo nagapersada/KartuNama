@@ -156,6 +156,12 @@ const members = {
         wa: "6285703242966",
         rank: 0
     },
+    'patuan': {
+        name: "Patuan",
+        photo: "foto-patuan.jpg",
+        wa: "6289685502860",
+        rank: 1
+    },
 };
 
 const defaultData = {
