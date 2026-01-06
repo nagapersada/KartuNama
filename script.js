@@ -162,6 +162,12 @@ const members = {
         wa: "6289685502860",
         rank: 1
     },
+    'rai': {
+        name: "Rai Satria N",
+        photo: "foto-rai.jpg",
+        wa: "6281572449940",
+        rank: 0
+    },
 };
 
 const defaultData = {
