@@ -144,6 +144,12 @@ const members = {
         wa: "6287734725828",
         rank: 3
     },
+    'iyan': {
+        name: "Akhmad Adiansyah",
+        photo: "foto-iyan.jpg",
+        wa: "6287882258588",
+        rank: 1
+    }
 };
 
 const defaultData = {
