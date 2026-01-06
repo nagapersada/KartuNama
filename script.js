@@ -16,85 +16,85 @@ const members = {
         name: "Ina Garnia",
         photo: "foto-ina.jpg",
         wa: "6282295683474",
-        rank: 5
+        rank: 2
     },
     'martin': {
         name: "Marthyn",
         photo: "foto-martin.jpg",
         wa: "6281394675623",
-        rank: 5
+        rank: 2
     },
     'omi': {
         name: "Tomi Irwandy",
         photo: "foto-omi.jpg",
         wa: "6283194535211",
-        rank: 5
+        rank: 1
     },
     'mey': {
         name: "Siti Meiniwati",
         photo: "foto-mey.jpg",
         wa: "628987085958",
-        rank: 5
+        rank: 1
     },
     'dani': {
         name: "M. Dhani Kurniawan",
         photo: "foto-dani.jpg",
         wa:"6281322730596",
-        rank: 5
+        rank: 0
     },
     'yan': {
         name: "Yana Daryana",
         photo: "foto-yan.jpg",
         wa: "6285656791002",
-        rank: 5
+        rank: 0
     },
     'dikdik': {
         name: "Dikdik Mulyana",
         photo: "foto-dikdik.jpg",
         wa: "6285282619898",
-        rank: 5
+        rank: 0
     },
     'pandu': {
         name: "Pandu Rinata",
         photo: "foto-pandu.jpg",
         wa: "6285797817050",
-        rank: 5
+        rank: 0
     },
     'fakhri': {
         name: "M. Fakhri Rizki",
         photo: "foto-fakhri.jpg",
         wa: "6285524444037",
-        rank: 5
+        rank: 0
     },
     'rexi': {
         name: "Rexi Gustiawan",
         photo: "foto-rexi.jpg",
         wa: "6281218878025",
-        rank: 5
+        rank: 0
     },
     'oki': {
         name: "Oki Hendrawan",
         photo: "foto-oki.jpg",
         wa: "6282115586827",
-        rank: 5
+        rank: 0
     },
     'anis': {
         name: "Anis Abiba",
         photo: "foto-anis.jpg",
         wa: "6282129169198",
-        rank: 5
+        rank: 0
     },
     'silma': {
         name: "Silma Almaida",
         photo: "foto-silma.jpg",
         wa: "6283169949205",
-        rank: 5
+        rank: 1
     },
     'zilla': {
         name: "Fazrilla NQ",
         photo: "foto-zilla.jpg",
         wa: "6285723419799",
-        rank: 5
+        rank: 1
     }
 };
 
