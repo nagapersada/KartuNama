@@ -139,7 +139,7 @@ const members = {
         rank: 2
     },
     'toni': {
-        name: "Toni Rahma Miharja",
+        name: "Toni",
         photo: "foto-toni.jpg",
         wa: "6287734725828",
         rank: 3
