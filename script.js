@@ -168,6 +168,12 @@ const members = {
         wa: "6281572449940",
         rank: 0
     },
+    'intan': {
+        name: "Intan Kusmawati",
+        photo: "foto-intan.jpg",
+        wa: "6289621957879",
+        rank: 0
+    },
 };
 
 const defaultData = {
