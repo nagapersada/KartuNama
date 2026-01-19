@@ -2,9 +2,9 @@
 const members = {
     'deka': { name: "Deka Sonjaya", photo: "foto-deka.jpg", wa: "6285524444037", rank: 6 },
     'widia': { name: "Widia Sutiani", photo: "foto-widia.jpg", wa: "6281233422232", rank: 0 },
-    'alia': { name: "Alia Sabila", photo: "Foto-alia.jpg", wa: "628989269556", rank: 0 },
+    'alia': { name: "Alia Sabila", photo: "foto-alia.jpg", wa: "628989269556", rank: 0 },
     'doni': { name: "Doni Mardani", photo: "foto-doni.jpg", wa: "6285217773945", rank: 0 },
-    'yayu': { name: "Yayu", photo: "Foto-yayu.jpg", wa: "6289524373273", rank: 0 },
+    'yayu': { name: "Yayu", photo: "foto-yayu.jpg", wa: "6289524373273", rank: 0 },
     'erie': { name: "Erie Suwarni", photo: "foto-erie.jpg", wa: "62882000441389", rank: 0 },
     'febrina': { name: "Febrina Yusrin", photo: "foto-febrina.jpg", wa: "6285603225184", rank: 0 },
     'yunita': { name: "Yunita", photo: "foto-yunita.jpg", wa: "6281213488026", rank: 0 },
